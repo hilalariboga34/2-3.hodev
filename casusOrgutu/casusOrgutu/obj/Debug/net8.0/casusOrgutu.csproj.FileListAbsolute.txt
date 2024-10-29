@@ -1,0 +1,14 @@
+C:\Users\HİLAL ARIBOĞA\Source\Repos\casusOrgutu\casusOrgutu\bin\Debug\net8.0\casusOrgutu.exe
+C:\Users\HİLAL ARIBOĞA\Source\Repos\casusOrgutu\casusOrgutu\bin\Debug\net8.0\casusOrgutu.deps.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\casusOrgutu\casusOrgutu\bin\Debug\net8.0\casusOrgutu.runtimeconfig.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\casusOrgutu\casusOrgutu\bin\Debug\net8.0\casusOrgutu.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\casusOrgutu\casusOrgutu\bin\Debug\net8.0\casusOrgutu.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\casusOrgutu\casusOrgutu\obj\Debug\net8.0\casusOrgutu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HİLAL ARIBOĞA\Source\Repos\casusOrgutu\casusOrgutu\obj\Debug\net8.0\casusOrgutu.AssemblyInfoInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\casusOrgutu\casusOrgutu\obj\Debug\net8.0\casusOrgutu.AssemblyInfo.cs
+C:\Users\HİLAL ARIBOĞA\Source\Repos\casusOrgutu\casusOrgutu\obj\Debug\net8.0\casusOrgutu.csproj.CoreCompileInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\casusOrgutu\casusOrgutu\obj\Debug\net8.0\casusOrgutu.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\casusOrgutu\casusOrgutu\obj\Debug\net8.0\refint\casusOrgutu.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\casusOrgutu\casusOrgutu\obj\Debug\net8.0\casusOrgutu.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\casusOrgutu\casusOrgutu\obj\Debug\net8.0\casusOrgutu.genruntimeconfig.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\casusOrgutu\casusOrgutu\obj\Debug\net8.0\ref\casusOrgutu.dll
